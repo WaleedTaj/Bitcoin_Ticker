@@ -1,0 +1,1 @@
+C:\Users\walee\StudioProjects\bitcoin_ticker\build\app\intermediates\cxx\RelWithDebInfo\w42w5q69\obj\arm64-v8a

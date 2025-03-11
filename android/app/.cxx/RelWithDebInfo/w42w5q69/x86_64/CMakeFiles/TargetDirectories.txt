@@ -1,0 +1,2 @@
+C:/Users/walee/StudioProjects/bitcoin_ticker/android/app/.cxx/RelWithDebInfo/w42w5q69/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/walee/StudioProjects/bitcoin_ticker/android/app/.cxx/RelWithDebInfo/w42w5q69/x86_64/CMakeFiles/rebuild_cache.dir
