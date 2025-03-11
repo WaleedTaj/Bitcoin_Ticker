@@ -15,7 +15,7 @@ A **Flutter app** that displays **real-time cryptocurrency prices** with currenc
 
 ## **📸 Screenshots**
 
-<img src="https://github.com/WaleedTaj/Bitcoin_Ticker/blob/master/images/screenshot1.png" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/Bitcoin_Ticker/blob/master/images/screenshot2.png" width="200"/> <img src="https://github.com/WaleedTaj/Bitcoin_Ticker/blob/master/images/screenshot3.png" width="200"/> <img src="https://github.com/WaleedTaj/Bitcoin_Ticker/blob/master/images/screenshot4.png" width="200"/> <img src="https://github.com/WaleedTaj/Bitcoin_Ticker/blob/master/images/screenshot5.png" width="200"/> 
+<img src="https://github.com/WaleedTaj/Bitcoin_Ticker/blob/master/images/Screenshot1.png" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/Bitcoin_Ticker/blob/master/images/Screenshot2.png" width="200"/> <img src="https://github.com/WaleedTaj/Bitcoin_Ticker/blob/master/images/Screenshot3.png" width="200"/> <img src="https://github.com/WaleedTaj/Bitcoin_Ticker/blob/master/images/Screenshot4.png" width="200"/> <img src="https://github.com/WaleedTaj/Bitcoin_Ticker/blob/master/images/Screenshot5.png" width="200"/> 
 
 ## **🚀 Getting Started**
 
